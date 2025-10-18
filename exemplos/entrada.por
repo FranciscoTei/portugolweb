@@ -4,6 +4,7 @@ programa
 	{
 		// Para receber dados do usuário, comece 
 		// dizendo ao usuário o que você quer que ele faça
+		escreva("Bem vindos, alunos do nono ano!")
 		escreva("Insira o seu nome:")
 		
 		// Crie uma variável para gardar o 
